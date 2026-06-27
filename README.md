@@ -1,6 +1,3 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/LOWERTOP/Shadowrocket-First?style=flat&logo=github&logoColor=white&label=星标次数&labelColor=grey&color=blue)](https://github.com/LOWERTOP/Shadowrocket-First/stargazers "已被星标")
-[![GitHub forks](https://img.shields.io/github/forks/LOWERTOP/Shadowrocket-First?style=flat&logo=github&logoColor=white&label=复刻次数&labelColor=grey&color=blue)](https://github.com/LOWERTOP/Shadowrocket-First/forks "已被复刻")
-[![GitHub last commit](https://img.shields.io/github/last-commit/LOWERTOP/Shadowrocket-First/main?style=flat&logo=github&label=更新时间&color=blue)](https://github.com/LOWERTOP/Shadowrocket-First/activity "更新记录")
 [![Translate to English](https://img.shields.io/static/v1?label=Translate&message=to%20English&color=blue&logo=googletranslate&logoColor=white&labelColor=grey&messageColor=white)](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https://lowertop.github.io/Shadowrocket-First "README in English via Google Translate")
 
 [<img src="https://lowertop.github.io/Shadowrocket-First/img/01.png" width="100%">](https://github.com/LOWERTOP/Shadowrocket-First)
@@ -31,8 +28,8 @@
 
 ### [Talkatone](#talkatone)
 
-> 近期 Talkatone 针对使用者 IP 的审查趋于严格，它使用了 `*-sjc-*.tktn.be` 这个地址对节点进行质量判断，用户可在 **[编辑参数](https://github.com/LOWERTOP/Shadowrocket?tab=readme-ov-file#%E7%BC%96%E8%BE%91%E5%8F%82%E6%95%B0)** 内对 **节点质量检测** 和 **代理分流策略** 分别尝试不同的代理节点或分组，分流策略默认已设置为代理，原则上可以不做调整，但节点质量检测需要自行测试并设定为特定节点方可正常使用<br>
 > 本模块包含去广告规则，能够去除软件内的第三方广告。除模块外还提供 [去广告规则集](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/TalkatoneAntiAds.list) 以及 [全局代理规则集](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/TalkatoneProxy.list)
+> > 现阶段 Talkatone 针对使用者 IP 的审查趋于严格，其使用了 `*-sjc-*.tktn.be` 这个地址对节点进行质量判断，用户可在 **[编辑参数](https://github.com/LOWERTOP/Shadowrocket?tab=readme-ov-file#%E7%BC%96%E8%BE%91%E5%8F%82%E6%95%B0)** 内对 **节点质量检测** 和 **代理分流策略** 分别尝试不同的代理节点或分组，分流策略默认已设置为代理，原则上可以不做调整，但节点质量检测需要自行测试并设定为特定节点方可正常使用<br>
 > 
 > [![安装模块 Talkatone](https://img.shields.io/static/v1?label=安装模块&message=Talkatone&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Talkatone.sgmodule "一键安装本模块")
 > [![规则文件 去广告规则](https://img.shields.io/static/v1?label=规则文件&message=去广告规则&color=grey&logo=todoist&logoColor=white&labelColor=%2325A162&messageColor=white)](https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/TalkatoneAntiAds.list "点击访问规则集")
@@ -116,6 +113,8 @@
 
 > 本模块是使用 **[编辑参数](https://github.com/LOWERTOP/Shadowrocket?tab=readme-ov-file#%E7%BC%96%E8%BE%91%E5%8F%82%E6%95%B0)** 功能构建的以 UI 界面调整配置文件内部分参数、功能及隐藏参数选项的功能增强型模块。相关参数的功能详情请参考 [使用手册](https://github.com/LOWERTOP/Shadowrocket)
 > 
+> **不了解本模块作用的用户请不要使用本模块**
+> 
 > [![安装模块 调试模块](https://img.shields.io/static/v1?label=安装模块&message=调试模块&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Commands.sgmodule "一键安装本模块")
 
 ### [欧易规则集](#欧易规则集)
@@ -164,15 +163,6 @@
 > >   
 > > [![首先安装 解析模块](https://img.shields.io/static/v1?label=首先安装&message=解析模块&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule "一键安装本模块")
 > > [![其次访问 插件中心](https://img.shields.io/static/v1?label=其次访问&message=插件中心&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://hub.kelee.one "访问相应地址")
-> 
-> **[Spotify 模块](https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule)**
-> 
-> > 模块来自 [001ProMax](https://github.com/001ProMax)，原则上可以去除播放广告，使歌手/专辑列表正常展示。软件音质不能设置为超高，分流节点须同注册地保持一致，首次登录或软件更新后可能需要重启软件方可生效，极端情况下可能需要重新登录或重装。同时提供测试版及 [app2smile](https://github.com/app2smile) 的版本
-> >
-> > **Spotify 软件的更新可能导致相关模块部分或全部功能受限，可以尝试回滚软件至旧版**
-> >
-> > [![安装模块 001ProMax 版本](https://img.shields.io/static/v1?label=安装模块&message=001ProMax%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule "一键安装本模块")
-> > [![安装模块 app2smile 版本](https://img.shields.io/static/v1?label=安装模块&message=app2smile%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module "一键安装本模块")
 > 
 > **[YouTube 模块](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule)**
 > 
@@ -233,6 +223,15 @@
 > > [![安装模块 比价折线版](https://img.shields.io/static/v1?label=安装模块&message=比价折线版&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price.sgmodule "一键安装本模块")
 > > [![安装模块 比价表格版](https://img.shields.io/static/v1?label=安装模块&message=比价表格版&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule "一键安装本模块")
 >  
+> **[Spotify 模块](https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule)**
+> 
+> > 模块来自 [app2smile](https://github.com/app2smile)，原则上可以去除播放广告，使歌手/专辑列表正常展示。同时提供 [001ProMax](https://github.com/001ProMax) 的版本
+> >
+> > **软件音质不能设置为超高，分流节点须同注册地保持一致，首次登录或软件更新后可能需要重启软件方可生效，极端情况下可能需要重新登录或重装。软件的更新可能导致相关模块部分或全部功能受限，可以尝试回滚软件至旧版**
+> >
+> > [![安装模块 app2smile 版本](https://img.shields.io/static/v1?label=安装模块&message=app2smile%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module "一键安装本模块")
+> > [![安装模块 001ProMax 版本](https://img.shields.io/static/v1?label=安装模块&message=001ProMax%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule "一键安装本模块")
+> 
 > **[机场流量查询模块](https://raw.githubusercontent.com/huskydsb/Shadowrocket/main/Sgmodule/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F%E6%9F%A5%E8%AF%A2.module)**
 > 
 > > 本模块由 [Sage](https://github.com/huskydsb) 制作并维护，是以 **[编辑参数](https://github.com/LOWERTOP/Shadowrocket?tab=readme-ov-file#%E7%BC%96%E8%BE%91%E5%8F%82%E6%95%B0)** 为基础使用手段的定期检测订阅信息的模块，主要可以定期查询并提醒服务器订阅的当前信息，如上传流量、下载流量、流量总量、到期时间等提醒。安装后点击模块进入编辑参数页面设置，其时间间隔使用 Cron 表达式填写，其他内容参见编辑参数内的说明
@@ -254,6 +253,32 @@
 > > **合集类模块可能存在误杀、兼容性、稳定性等问题，或会导致部分软件或服务稳定性下降，请测试后使用**
 > >   
 > > [![安装模块 合集模块](https://img.shields.io/static/v1?label=安装模块&message=合集模块&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/All/allAdBlock.sgmodule "一键安装本模块")
+> 
+> **[更多模块](#模块收集)**
+> 
+> > [iab0x00](https://github.com/iab0x00) 创建并维护的小火箭原生模块仓库，包含 YouTube、滴滴出行、酷安、小红书等软件的相关模块
+> >
+> > [![模块仓库 iab0x00](https://img.shields.io/static/v1?label=模块仓库&message=iab0x00&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://github.com/iab0x00/ProxyRules "点击查看")
+> >
+> > [Kelee 可莉](https://github.com/ddgksf2013/ddgksf2013) 维护的插件中心，安装 [插件中心专用转换器](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule) 后可用于小火箭
+> >
+> > [![模块仓库 Kelee](https://img.shields.io/static/v1?label=模块仓库&message=Kelee&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://hub.kelee.one/ "点击查看")
+> > 
+> > [Ling KeQing](https://github.com/QingRex) 维护的资源丰富的 [模块仓库](https://github.com/QingRex/LoonKissSurge)，多数可直接使用
+> >
+> > [![模块仓库 QingRex](https://img.shields.io/static/v1?label=模块仓库&message=KeQing&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://surge.qingr.moe "点击查看")
+> >
+> > [Cuttlefish 墨鱼](https://github.com/ddgksf2013/ddgksf2013) 维护的可适用小火箭的模块仓库，需提前安装 [墨鱼专用前置模块](https://ddgksf2013.top/module/ScriptHub.Rocket.sgmodule)
+> >
+> > [![模块仓库 Cuttlefish](https://img.shields.io/static/v1?label=模块仓库&message=Cuttlefish&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://ddgksf2013.top/ "点击查看")
+> > 
+> > [奶思](https://github.com/fmz200) 维护的仓库，包含数百款独立模块
+> >
+> > [![模块仓库 奶思](https://img.shields.io/static/v1?label=模块仓库&message=奶思&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://github.com/fmz200/wool_scripts/blob/main/README-RULE.md "点击查看")
+> > 
+> > [zirawell](https://github.com/zirawell) 维护的仓库，包含数百款独立模块和多个不同类型的合集类模块
+> >
+> > [![模块仓库 zirawell](https://img.shields.io/static/v1?label=模块仓库&message=zirawell&color=grey&logo=html5&logoColor=white&labelColor=blue&messageColor=white)](https://github.com/zirawell/R-Store/tree/main/Rule/Surge/Adblock "点击查看")
 
 ### [解锁检测](#解锁检测)
 
@@ -296,33 +321,6 @@
 > [iab0x00](https://github.com/iab0x00) 维护的 [交易所规则集](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Crypto.txt)，包含 Binane、Bitget、Bybit、OKX 等
 > 
 > [![规则文件 交易所规则集](https://img.shields.io/static/v1?label=规则文件&message=交易所规则集&color=grey&logo=todoist&logoColor=white&labelColor=%2325A162&messageColor=white)](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Crypto.txt "点击访问规则集")
-
-### [其他仓库](#其他仓库)
-
-> [iab0x00](https://github.com/iab0x00) 创建并维护的小火箭原生模块仓库，包含 YouTube、滴滴出行、酷安、小红书等软件的相关模块
->
-> [![模块仓库 iab0x00](https://img.shields.io/static/v1?label=模块仓库&message=iab0x00&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://github.com/iab0x00/ProxyRules "点击查看")
->
-> [Kelee 可莉](https://github.com/ddgksf2013/ddgksf2013) 维护的插件中心，安装 [插件中心转换器](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule) 后可用于小火箭
->
-> [![模块仓库 Kelee](https://img.shields.io/static/v1?label=模块仓库&message=Kelee&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://hub.kelee.one/ "点击查看")
-> 
-> [Ling KeQing](https://github.com/QingRex) 维护的 [模块仓库](https://github.com/QingRex/LoonKissSurge)，绝大部分可兼容使用，此页面的插件/模块主要来源于可莉
->
-> [![模块仓库 QingRex](https://img.shields.io/static/v1?label=模块仓库&message=KeQing&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://surge.qingr.moe "点击查看")
->
-> [Cuttlefish 墨鱼](https://github.com/ddgksf2013/ddgksf2013) 维护的可适用小火箭的模块仓库，包含高德、B站、彩云、菜鸟、微博等，需提前安装 [前置模块](https://ddgksf2013.top/module/ScriptHub.Rocket.sgmodule)
->
-> [![模块仓库 Cuttlefish](https://img.shields.io/static/v1?label=模块仓库&message=Cuttlefish&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://ddgksf2013.top/ "点击查看")
-> 
-> [奶思](https://github.com/fmz200) 维护的仓库，包含数百款独立模块
->
-> [![模块仓库 奶思](https://img.shields.io/static/v1?label=模块仓库&message=奶思&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://github.com/fmz200/wool_scripts/blob/main/README-RULE.md "点击查看")
-> 
-> [zirawell](https://github.com/zirawell) 维护的仓库，包含数百款独立模块和多个不同类型的合集类模块
->
-> [![模块仓库 zirawell](https://img.shields.io/static/v1?label=模块仓库&message=zirawell&color=grey&logo=html5&logoColor=white&labelColor=%23E34F26&messageColor=white)](https://github.com/zirawell/R-Store/tree/main/Rule/Surge/Adblock "点击查看")
-> 
 
 ------
 
