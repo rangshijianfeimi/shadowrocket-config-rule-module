@@ -129,7 +129,7 @@
 
 > [!NOTE]
 > 
-> 本章主要是收集自社区相对可信来源的公开文件，其效果请以实际为准
+> 本章主要是收集自社区有一定规模的公开文件，相关资源本仓均为直接引用原版地址且标注有作者或来源，其效果及有效性请以实际为准。
 
 ### [使用手册](#使用手册)
 
@@ -171,6 +171,12 @@
 > >   
 > > [![安装模块 YouTube 模块](https://img.shields.io/static/v1?label=安装模块&message=YouTube%20模块&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule "一键安装本模块")
 > > [![安装模块 Maasea 版本](https://img.shields.io/static/v1?label=安装模块&message=Maasea%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/Maasea/sgmodule/master/YouTube.Enhance.sgmodule "一键安装本模块")
+> 
+> **[推特网页版去广告](https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Surge/module/XWebAds.module)**
+> 
+> > 本模块来源自 [奶思](https://t.me/inaisi/629)。登录网页版，点击分享，下滑选择“添加到主屏幕”，添加到桌面的网页版和原版应用的差别比较细微，搭配此模块可实现无广告的推特浏览体验
+> >   
+> > [![安装模块 推特网页模块](https://img.shields.io/static/v1?label=安装模块&message=推特网页模块&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Surge/module/XWebAds.module "一键安装本模块")
 > 
 > **[哔哩哔哩增强](https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/release/surge/module/bilibili.sgmodule)**
 > 
@@ -225,12 +231,13 @@
 >  
 > **[Spotify 模块](https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule)**
 > 
-> > 模块来自 [app2smile](https://github.com/app2smile)，原则上可以去除播放广告，使歌手/专辑列表正常展示。同时提供 [001ProMax](https://github.com/001ProMax) 的版本
+> > 模块来自 [app2smile](https://github.com/app2smile)，原则上可以去除播放广告，使歌手/专辑列表正常展示。同时提供 [001ProMax](https://github.com/001ProMax) 和 [Reukix](https://github.com/Reukix) 的版本，各版本的差异和有效性请自行测试
 > >
 > > **软件音质不能设置为超高，分流节点须同注册地保持一致，首次登录或软件更新后可能需要重启软件方可生效，极端情况下可能需要重新登录或重装。软件的更新可能导致相关模块部分或全部功能受限，可以尝试回滚软件至旧版**
 > >
 > > [![安装模块 app2smile 版本](https://img.shields.io/static/v1?label=安装模块&message=app2smile%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module "一键安装本模块")
 > > [![安装模块 001ProMax 版本](https://img.shields.io/static/v1?label=安装模块&message=001ProMax%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule "一键安装本模块")
+> > [![安装模块 Reukix 版本](https://img.shields.io/static/v1?label=安装模块&message=Reukix%20版本&color=grey&logo=educative&logoColor=white&labelColor=blue&messageColor=white)](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/Spotify.sgmodule "一键安装本模块")
 > 
 > **[机场流量查询模块](https://raw.githubusercontent.com/huskydsb/Shadowrocket/main/Sgmodule/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F%E6%9F%A5%E8%AF%A2.module)**
 > 
